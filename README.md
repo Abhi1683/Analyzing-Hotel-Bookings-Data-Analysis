@@ -1,9 +1,17 @@
-# Hotel-Bookings-Data-Analysis
-- Analyzed Hotel-bookings data to identify cancellations.
-- Pandas for importing and sanitization of a dataset.
-- Matplotlib, Seaborn, and Plotly for analysis and visualization.
+## Summary of EDA (Exploratory Data Analysis)
 
-# Techstack
-Pandas | Matplotlib | Seaborn | Plotly
+- **Objective**: Analyze Hotel-bookings data to identify cancellations and trends.
+- **Tools Used**: Pandas, Matplotlib, Seaborn, Plotly.
+- **Key Findings**:
+  - Analyzed hotel booking cancellations and identified patterns.
+  - Used Pandas for data importing and cleaning.
+  - Created visualizations using Matplotlib, Seaborn, and Plotly for deeper insights.
 
+## Tech Stack
 
+- Pandas
+- Matplotlib
+- Seaborn
+- Plotly
+
+## [Link to Full EDA Report](https://abhishekpandey2000.github.io/Analyzing-Hotel-Bookings-Data-Analysis/)
